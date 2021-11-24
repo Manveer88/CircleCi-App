@@ -1,0 +1,20 @@
+{
+  "name": "circleci-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "routes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manveer88/CircleCi-App.git"
+  },
+  "author": "Manveer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manveer88/CircleCi-App/issues"
+  },
+  "homepage": "https://github.com/Manveer88/CircleCi-App#readme"
+}
